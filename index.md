@@ -10,7 +10,7 @@
   </div>
 
   <div class="cta-row">
-    <a class="btn btn-primary" href="projects.md">View Project Portfolio</a>
+    <a class="btn btn-primary" href="/projects.html">View Project Portfolio</a>
     <a class="btn btn-primary" href="assets/docs/resume.pdf" target="_blank" rel="noopener">Download Resume</a>
     <a class="btn btn-primary" href="/system-design/">System Design Gallery</a>
   </div>
