@@ -60,7 +60,7 @@ I am currently pursuing a Master of Computer Science at the University of Califo
   </li>
 </ul>
 
-[Explore Bosch Project Case Studies](projects.md#bosch-impact-projects)
+[Explore Bosch Project Case Studies](/projects.html#bosch-impact-projects)
 
 ---
 

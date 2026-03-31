@@ -1,3 +1,8 @@
+---
+title: Federated Learning Engine with Privacy Risk Detection and Protection
+permalink: /projects/federated-learning-privacy/
+---
+
 # Federated Learning Engine with Privacy Risk Detection and Protection
 
 ## Executive Overview

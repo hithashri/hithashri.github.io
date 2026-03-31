@@ -1,3 +1,8 @@
+---
+title: Cycle Time Reduction via Predictive Modeling
+permalink: /projects/cycle-time-reduction/
+---
+
 # Cycle Time Reduction via Predictive Modeling
 
 ## Executive Overview

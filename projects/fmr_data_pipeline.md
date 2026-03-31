@@ -1,3 +1,8 @@
+---
+title: FMR OCR-to-Analytics Data Pipeline
+permalink: /projects/fmr-data-pipeline/
+---
+
 # FMR OCR-to-Analytics Data Pipeline
 
 ## Executive Overview

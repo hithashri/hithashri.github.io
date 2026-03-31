@@ -1,3 +1,8 @@
+---
+title: Secure On-Prem OCR Tool
+permalink: /projects/secure-ocr-tool/
+---
+
 # Secure On-Prem OCR Tool
 
 ## Executive Overview

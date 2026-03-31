@@ -1,3 +1,8 @@
+---
+title: Validation of LLMs Framework
+permalink: /projects/llm-validation-framework/
+---
+
 # Validation of LLMs Framework
 
 ## Executive Overview

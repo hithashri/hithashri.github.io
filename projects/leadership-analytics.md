@@ -1,3 +1,8 @@
+---
+title: Daily Leadership Review Chatbot
+permalink: /projects/leadership-analytics/
+---
+
 # Daily Leadership Review Chatbot
 
 ## Executive Overview

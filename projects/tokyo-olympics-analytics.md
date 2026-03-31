@@ -1,3 +1,8 @@
+---
+title: Tokyo Olympics 2021 Analytics Study
+permalink: /projects/tokyo-olympics-analytics/
+---
+
 # Tokyo Olympics 2021 Analytics Study
 
 ## Executive Overview

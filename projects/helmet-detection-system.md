@@ -1,3 +1,8 @@
+---
+title: Real-Time Helmet Detection and Violation Logging System
+permalink: /projects/helmet-detection-system/
+---
+
 # Real-Time Helmet Detection and Violation Logging System
 
 ## Executive Overview

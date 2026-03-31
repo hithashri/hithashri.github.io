@@ -1,3 +1,8 @@
+---
+title: Real-Time Manufacturing Breakdown Recommendation System
+permalink: /projects/recommendation-engine-chatbot/
+---
+
 # Real-Time Manufacturing Breakdown Recommendation System
 
 ## Executive Overview
