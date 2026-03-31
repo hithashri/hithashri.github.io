@@ -1,3 +1,7 @@
+---
+title: System Design Gallery
+---
+
 # System Design Gallery
 
 This section is reserved for architecture and system design visuals for each project.  

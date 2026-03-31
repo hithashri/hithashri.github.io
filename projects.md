@@ -5,7 +5,7 @@ Selected work across AI/ML, data engineering, and applied analytics, focused on 
 <div class="cta-row">
   <a class="btn" href="index.md">Back to Home</a>
   <a class="btn btn-primary" href="assets/docs/resume.pdf" target="_blank" rel="noopener">Download Resume</a>
-  <a class="btn" href="system-design.md">View System Design Gallery</a>
+  <a class="btn" href="system-design.html">View System Design Gallery</a>
 </div>
 
 <div class="metrics-row">
