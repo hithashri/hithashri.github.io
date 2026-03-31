@@ -1,27 +1,39 @@
-Context
-Leadership relied on static dashboards to monitor operational KPIs, which limited flexibility and increased licensing costs. Decision makers needed faster access to insights without navigating complex dashboards.
+# Daily Leadership Review Chatbot
 
-Problem
-How can operational metrics be made more accessible, flexible, and cost effective for leadership teams?
+## Executive Overview
 
-Approach
-I built an internal conversational analytics system that allowed leaders to query real time production metrics using natural language.
+Developed a conversational analytics assistant for leadership that delivers live manufacturing KPI insights from enterprise databases through natural language interaction.
 
-Integrated with enterprise databases to fetch live operational data
+## Business Context
 
-Injected domain knowledge such as KPI definitions and formulas for accuracy
+Leadership teams relied heavily on static dashboards for operational monitoring. This approach introduced friction, reduced agility for ad hoc questions, and required broad licensing.
 
-Designed backend APIs to serve analytics responses securely
+## Problem Statement
 
-Built a lightweight frontend to support intuitive interaction
+How do we provide faster, easier, and more cost-effective access to operational metrics for leadership decision-making?
 
-Tools and Technologies
-Azure OpenAI, SQL, Oracle Database, FastAPI, TypeScript, REST APIs
+## Solution Design
 
-Impact
+- Connected to live Manufacturing Execution System data sources.
+- Encoded KPI definitions, formulas, and context for consistent metric interpretation.
+- Built secure backend APIs to fetch and assemble response-ready data.
+- Enabled natural-language querying through an LLM-powered interface.
 
-Enabled faster decision making through natural language insights
+## System Design and Architecture
 
-Reduced dependency on static dashboards and licensing costs
+- **Data layer:** Live Oracle MES data integration.
+- **Business logic layer:** KPI definitions, aggregation rules, and context injection.
+- **API layer:** FastAPI endpoints for controlled query orchestration.
+- **Interaction layer:** LLM-based conversational interface for leadership users.
 
-Increased leadership engagement with operational data
+Add your draw.io architecture diagram here later: `assets/diagrams/leadership-review-chatbot-architecture.png`.
+
+## Technology Stack
+
+Azure OpenAI (GPT-4o), Oracle SQL, FastAPI, TypeScript, REST APIs
+
+## Outcomes
+
+- Enabled faster leadership decisions with direct, conversational access to KPIs.
+- Reduced reliance on static dashboard workflows and related licensing overhead.
+- Increased engagement with real-time operational performance data.

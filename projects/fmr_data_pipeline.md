@@ -1,27 +1,39 @@
-Context
-Quality reports were generated as non readable PDFs, requiring manual inspection and slowing response times for defective parts.
+# FMR OCR-to-Analytics Data Pipeline
 
-Problem
-How can machine generated PDFs be converted into structured, analytics ready data automatically?
+## Executive Overview
 
-Approach
-I designed an OCR and data extraction pipeline to transform PDFs into structured datasets integrated with analytics tools.
+Designed and implemented an automated data pipeline that converts machine-generated PDF reports into structured datasets for near real-time quality analytics.
 
-Built an OCR pipeline to extract tabular data from PDFs
+## Business Context
 
-Classified parts as compliant or non compliant programmatically
+Quality teams received critical manufacturing reports in non-readable PDF formats, requiring manual extraction and slowing response to non-compliant part detection.
 
-Automated refresh and reporting for near real time visibility
+## Problem Statement
 
-Integrated outputs into BI tools for faster action
+How can machine-generated PDF data be transformed into accurate, structured, and analytics-ready outputs with minimal manual work?
 
-Tools and Technologies
-Python, OCR, Pandas, Excel automation, Power BI
+## Solution Design
 
-Impact
+- Built OCR and parsing workflows to extract tabular data from generated PDFs.
+- Standardized extracted records into structured Excel/dataframe outputs.
+- Implemented OK/NOK classification logic for rapid quality filtering.
+- Integrated processed outputs with Power BI dashboards for continuous monitoring.
 
-Eliminated manual data extraction
+## System Design and Architecture
 
-Improved response time for quality issues
+- **Input layer:** Shared storage source for machine-generated PDFs.
+- **Extraction layer:** OCR + parsing for table reconstruction.
+- **Transformation layer:** Data cleaning, normalization, and compliance tagging.
+- **Consumption layer:** Excel outputs and BI dashboards for operations teams.
 
-Enabled real time visibility into defect trends
+Add your draw.io dataflow diagram here later: `assets/diagrams/fmr-data-pipeline-architecture.png`.
+
+## Technology Stack
+
+Python, Tesseract OCR, PyMuPDF, Pandas, Excel automation, Power BI
+
+## Outcomes
+
+- Eliminated manual extraction effort from repetitive PDF reports.
+- Improved response speed for defect identification and quarantine workflows.
+- Enabled more reliable near real-time visibility into quality trends.

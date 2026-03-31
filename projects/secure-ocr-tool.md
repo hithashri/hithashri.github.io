@@ -1,25 +1,39 @@
-Context
-Decades of scanned documents were inaccessible due to non searchable formats, and external OCR tools posed data security risks.
+# Secure On-Prem OCR Tool
 
-Problem
-How can legacy documents be digitized securely within enterprise infrastructure?
+## Executive Overview
 
-Approach
-I developed and deployed an on premise OCR web application to convert scanned documents into searchable text.
+Built and deployed an internal OCR web application for secure digitization of sensitive legacy documents entirely within plant infrastructure.
 
-Built a secure OCR processing pipeline hosted internally
+## Business Context
 
-Designed the system to work without exposing data to third party services
+Large volumes of scanned records were non-searchable, slowing retrieval and compliance workflows. External OCR services were not acceptable due to confidentiality constraints.
 
-Deployed and managed the service within enterprise constraints
+## Problem Statement
 
-Tools and Technologies
-Python, Flask, OCR, document processing, internal server deployment
+How can we digitize legacy scanned documents at scale without exposing data beyond internal enterprise networks?
 
-Impact
+## Solution Design
 
-Digitized large volumes of legacy documents securely
+- Developed a Flask-based OCR web interface for internal users.
+- Implemented document processing and text extraction workflows for scanned records.
+- Hosted and served the app on-prem using enterprise-compatible service hosting.
+- Ensured no external data transfer outside internal network boundaries.
 
-Improved information retrieval across teams
+## System Design and Architecture
 
-Established the first Python based deployment within the plant network
+- **Access layer:** Internal-only web interface for document upload and extraction.
+- **Processing layer:** OCR engine and post-processing normalization.
+- **Deployment layer:** On-prem Windows service setup (Waitress/NSSM).
+- **Security layer:** Network-bound operation with no third-party data exposure.
+
+Add your draw.io deployment architecture here later: `assets/diagrams/secure-ocr-tool-architecture.png`.
+
+## Technology Stack
+
+Python, Flask, OCR stack, Waitress, NSSM, internal server deployment
+
+## Outcomes
+
+- Securely digitized sensitive historical documents.
+- Improved enterprise-wide document discoverability.
+- Achieved the first Python-based deployment within the plant network environment.

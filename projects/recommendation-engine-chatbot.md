@@ -1,31 +1,43 @@
-Case Study 1: Real Time Manufacturing Breakdown Recommendation System
+# Real-Time Manufacturing Breakdown Recommendation System
 
-Context
-In a high throughput manufacturing environment, equipment breakdowns directly impact cycle time and productivity. Resolution knowledge existed across historical logs, PDFs, and spreadsheets, but technicians relied on manual searches and tribal knowledge, leading to delays and inconsistent fixes.
+## Executive Overview
 
-Problem
-How can technicians get fast, reliable breakdown resolution guidance without digging through scattered documentation, while ensuring the system continuously improves over time?
+Built an internal GPT-powered manufacturing assistant to provide reliable, real-time breakdown recommendations from historical resolution data, reducing manual troubleshooting effort on the shop floor.
 
-Approach
-I designed and built a GPT powered internal chatbot that provided real time breakdown resolution recommendations using historical error resolution mappings.
+## Business Context
 
-Parsed structured Excel logs and unstructured PDF documents into a unified knowledge base
+In a high-throughput production environment, downtime from equipment failures has direct impact on output and delivery timelines. Resolution knowledge existed across Excel logs, PDFs, and internal documentation, but retrieval was manual and inconsistent across shifts.
 
-Implemented similarity based retrieval to match live errors with historical resolutions
+## Problem Statement
 
-Designed a feedback loop where technician validated fixes were captured and ranked
+How can technicians receive fast, trustworthy resolution guidance for live breakdowns without manually searching fragmented records?
 
-Ensured responses were context aware and constrained to verified enterprise knowledge
+## Solution Design
 
-Due to confidentiality, internal systems and datasets cannot be shared.
+- Consolidated structured and unstructured maintenance data into a unified retrieval-ready knowledge base.
+- Implemented similarity-based retrieval to map live error signals to historically successful fixes.
+- Integrated GPT-based response generation constrained to verified internal context.
+- Added a feedback loop so technician-confirmed fixes could improve future ranking and response quality.
 
-Tools and Technologies
-Python, Azure OpenAI, NLP, Excel and PDF parsing, similarity search, FastAPI
+## System Design and Architecture
 
-Impact
+- **Ingestion layer:** Excel/PDF parsers for historical incident and resolution records.
+- **Retrieval layer:** Similarity matching between incoming error events and known resolution clusters.
+- **Reasoning layer:** GPT response composition using retrieved evidence and safety constraints.
+- **Feedback layer:** Capture of accepted/rejected recommendations for iterative improvement.
 
-Reduced downtime by accelerating root cause identification
+Add your draw.io architecture diagram here later: `assets/diagrams/recommendation-system-architecture.png`.
 
-Improved consistency in breakdown resolution across shifts
+## Technology Stack
 
-Created a self improving system through technician feedback
+Python, Azure OpenAI (GPT-4o), FastAPI, NLP pipelines, document parsing, similarity search
+
+## Outcomes
+
+- Faster root-cause guidance for common failures.
+- Improved consistency of operator response across teams.
+- Established a continuously improving, retrieval-backed support workflow.
+
+## Confidentiality Note
+
+Specific internal datasets, system identifiers, and implementation details are intentionally abstracted.
