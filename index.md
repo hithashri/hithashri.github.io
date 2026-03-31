@@ -70,17 +70,17 @@ I am currently pursuing a Master of Computer Science at the University of Califo
   <div class="card">
     <h3>Manufacturing AI and Industry 4.0</h3>
     <p>Production copilots, cycle-time optimization, OCR pipelines, and secure deployment in enterprise environments.</p>
-    <a href="projects.md#bosch-impact-projects">Explore Bosch project cluster</a>
+    <a href="/projects.html#bosch-impact-projects">Explore Bosch project cluster</a>
   </div>
   <div class="card">
     <h3>Applied LLM and Privacy Research</h3>
     <p>Validation frameworks, safety/factuality pipelines, and federated learning with privacy risk analysis.</p>
-    <a href="projects.md#current-academic-and-research-projects">Explore research projects</a>
+    <a href="/projects.html#current-academic-and-research-projects">Explore research projects</a>
   </div>
   <div class="card">
     <h3>Computer Vision and Analytics</h3>
     <p>Real-time detection systems and insight generation through structured exploratory analytics.</p>
-    <a href="projects.md#internship-projects">Explore internship projects</a>
+    <a href="/projects.html#internship-projects">Explore internship projects</a>
   </div>
 </div>
 
