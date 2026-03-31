@@ -1,5 +1,6 @@
 ---
 title: System Design Gallery
+permalink: /system-design/
 ---
 
 # System Design Gallery
