@@ -1,5 +1,3 @@
----
-
 ## About
 
 I design and ship end-to-end AI solutions, from data engineering and modeling to deployment and adoption. My work spans manufacturing copilots, secure OCR digitization, and conversational KPI systems used in real operations.
