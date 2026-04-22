@@ -16,6 +16,16 @@
   letter-spacing: 0.2px;
 }
 
+.project-tagline,
+.project-tagline a {
+  color: #ffffff !important;
+}
+
+.project-tagline a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
 .hero {
   border: 1px solid #d8dee4;
   border-radius: 18px;
