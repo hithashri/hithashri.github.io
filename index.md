@@ -1,30 +1,6 @@
 <div class="hero">
   <h1 class="hero-title">Hitha Shri Nagaruru</h1>
-  <p class="hero-subtitle">AI/ML Engineer building production-grade AI systems in manufacturing, LLM applications, and data platforms.</p>
-
-  <div class="badge-row">
-    <span class="badge">AI/ML Engineer</span>
-    <span class="badge">Manufacturing AI</span>
-    <span class="badge">LLM Systems</span>
-    <span class="badge">Data Pipelines</span>
-  </div>
-
-  <div class="cta-row">
-    <a class="btn btn-primary" href="/projects.html">View Project Portfolio</a>
-    <a class="btn btn-primary" href="assets/docs/resume.pdf" target="_blank" rel="noopener">Download Resume</a>
-    <a class="btn btn-primary" href="/system-design/">System Design Gallery</a>
-  </div>
-
-  <div class="metrics-row">
-    <span class="metric-chip">2.6% productivity increase</span>
-    <span class="metric-chip">9s cycle-time reduction</span>
-    <span class="metric-chip">INR 40M capex avoided</span>
-    <span class="metric-chip">96% known-case chatbot accuracy</span>
-  </div>
-
-  <div class="social-row">
-    <a href="https://github.com/hithashri">GitHub</a> | <a href="http://linkedin.com/in/hithashrinagaruru">LinkedIn</a> | <a href="mailto:hnagarur@uci.edu">Email</a>
-  </div>
+  <p class="hero-subtitle"><a href="mailto:hithashri2411@gmail.com">hithashri2411@gmail.com</a> | <a href="tel:+16178921409">+1 (617) 892-1409</a> | <a href="https://linkedin.com/in/hithashrinagaruru">LinkedIn</a> | <a href="https://github.com/hithashri">GitHub</a></p>
 </div>
 
 ---
