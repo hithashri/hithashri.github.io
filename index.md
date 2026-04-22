@@ -1,8 +1,3 @@
-<div class="hero">
-  <h1 class="hero-title">Hitha Shri Nagaruru</h1>
-  <p class="hero-subtitle"><a href="mailto:hithashri2411@gmail.com">hithashri2411@gmail.com</a> | <a href="tel:+16178921409">+1 (617) 892-1409</a> | <a href="https://linkedin.com/in/hithashrinagaruru">LinkedIn</a> | <a href="https://github.com/hithashri">GitHub</a></p>
-</div>
-
 ---
 
 ## About
