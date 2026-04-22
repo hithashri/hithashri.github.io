@@ -1,6 +1,6 @@
 <div class="hero">
   <h1 class="hero-title">Hitha Shri Nagaruru</h1>
-  <p class="hero-subtitle">Get in touch: <a href="mailto:hithashri2411@gmail.com">hithashri2411@gmail.com</a> | <a href="tel:+16178921409">+1 (617) 892-1409</a> | <a href="http://linkedin.com/in/hithashrinagaruru" aria-label="LinkedIn profile"><span style="font-weight:700; letter-spacing:0.3px;">in</span> LinkedIn</a></p>
+  <p class="hero-subtitle">AI/ML Engineer building production-grade AI systems in manufacturing, LLM applications, and data platforms.</p>
 
   <div class="badge-row">
     <span class="badge">AI/ML Engineer</span>
