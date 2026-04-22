@@ -1,3 +1,9 @@
+# Hitha Shri Nagaruru
+
+[hithashri2411@gmail.com](mailto:hithashri2411@gmail.com) | [+1 (617) 892-1409](tel:+16178921409) | [LinkedIn](https://linkedin.com/in/hithashrinagaruru) | [GitHub](https://github.com/hithashri)
+
+---
+
 ## About
 
 I design and ship end-to-end AI solutions, from data engineering and modeling to deployment and adoption. My work spans manufacturing copilots, secure OCR digitization, and conversational KPI systems used in real operations.
