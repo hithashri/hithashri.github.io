@@ -1,6 +1,10 @@
+---
+title: Hitha Shri Nagaruru
+---
+
 ## About
 
-Hi there! With the curiosity in the booming AI domain, I started with my 
+Hi there! With the curiosity in the booming AI domain, I started with my Bachelors of engineering in computer science and engineering with a gpa of 3.81. During this I worked on multiple projects and internships inclusing
 
 ---
 
