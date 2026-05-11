@@ -5,7 +5,7 @@ permalink: /contact/
 
 <a class="home-link" href="/">Home</a>
 
-# Get in Touch
+# Let's connect!
 
 <form class="contact-form" action="https://formspree.io/hnagarur@uci.edu" method="POST">
   <label for="name">Name</label>
