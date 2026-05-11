@@ -3,6 +3,8 @@ title: Education & Skills
 permalink: /education/
 ---
 
+<a class="home-link" href="/">Home</a>
+
 # Education
 
 <div class="card-grid">
@@ -52,5 +54,4 @@ permalink: /education/
 
 <div class="cta-row">
   <a class="btn btn-primary" href="/projects.html">View Projects</a>
-  <a class="btn btn-primary" href="/">Back to Home</a>
 </div>

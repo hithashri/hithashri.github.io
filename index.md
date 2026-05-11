@@ -55,9 +55,9 @@ I'm targeting **Data Science**, **AI/ML Engineering**, and **Data Analytics** ro
 ## Resumes
 
 <div class="cta-row">
-  <a class="btn" href="assets/docs/resume-aiml.pdf" target="_blank">AI/ML Engineering</a>
-  <a class="btn" href="assets/docs/resume-ds.pdf" target="_blank">Data Science</a>
-  <a class="btn" href="assets/docs/resume-da.pdf" target="_blank">Data Analytics</a>
+  <a class="btn btn-primary" href="assets/docs/resume-aiml.pdf" target="_blank">AI/ML Engineering</a>
+  <a class="btn btn-primary" href="assets/docs/resume-ds.pdf" target="_blank">Data Science</a>
+  <a class="btn btn-primary" href="assets/docs/resume-da.pdf" target="_blank">Data Analytics</a>
 </div>
 
 ---

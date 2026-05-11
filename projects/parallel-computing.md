@@ -3,6 +3,8 @@ title: Parallel & Distributed Computing Studies
 permalink: /projects/parallel-computing/
 ---
 
+<a class="home-link" href="/">Home</a>
+
 # Parallel & Distributed Computing Studies
 
 Explorations in hardware-aware optimization, concurrency, and performance modeling from coursework at UC Irvine.

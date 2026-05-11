@@ -3,6 +3,8 @@ title: Real-Time Manufacturing Breakdown Recommendation System
 permalink: /projects/recommendation-engine-chatbot/
 ---
 
+<a class="home-link" href="/">Home</a>
+
 # Real-Time Manufacturing Breakdown Recommendation System
 
 ## Executive Overview

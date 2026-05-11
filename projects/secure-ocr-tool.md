@@ -3,6 +3,8 @@ title: Secure On-Prem OCR Tool
 permalink: /projects/secure-ocr-tool/
 ---
 
+<a class="home-link" href="/">Home</a>
+
 # Secure On-Prem OCR Tool
 
 ## Executive Overview

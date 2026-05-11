@@ -2,14 +2,15 @@
 title: Projects
 ---
 
+<a class="home-link" href="/">Home</a>
+
 # Projects
 
 Work spanning LLM systems, data science, computer vision, and distributed computing -- organized by what I do, not where I did it.
 
 <div class="cta-row">
-  <a class="btn btn-primary" href="/">Back to Home</a>
   <a class="btn btn-primary" href="/education/">Education & Skills</a>
-  <a class="btn btn-primary" href="/system-design/">System Design Gallery</a>
+  <a class="btn btn-primary" href="/system-design/">System Design</a>
 </div>
 
 ---

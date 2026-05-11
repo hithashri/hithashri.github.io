@@ -3,6 +3,8 @@ title: System Design Gallery
 permalink: /system-design/
 ---
 
+<a class="home-link" href="/">Home</a>
+
 # System Design Gallery
 
 This section is reserved for architecture and system design visuals for each project.  

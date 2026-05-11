@@ -3,6 +3,8 @@ title: Cycle Time Reduction via Predictive Modeling
 permalink: /projects/cycle-time-reduction/
 ---
 
+<a class="home-link" href="/">Home</a>
+
 # Cycle Time Reduction via Predictive Modeling
 
 ## Executive Overview
