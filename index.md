@@ -73,7 +73,7 @@ title: Home
 ## Resumes
 
 <div class="resume-row">
-  <a href="assets/docs/resume-aiml.pdf" class="btn btn-outline" target="_blank">AI/ML Engineering ↓</a>
-  <a href="assets/docs/resume-ds.pdf" class="btn btn-outline" target="_blank">Data Science ↓</a>
-  <a href="assets/docs/resume-da.pdf" class="btn btn-outline" target="_blank">Data Analytics ↓</a>
+  <a href="assets/docs/Hitha_Shri_Nagaruru_Resume.pdf" class="btn btn-outline" target="_blank">AI/ML Engineering ↓</a>
+  <a href="assets/docs/Hitha_Shri_Resume.pdf" class="btn btn-outline" target="_blank">Data Science ↓</a>
+  <a href="assets/docs/Hitha_Resume.pdf" class="btn btn-outline" target="_blank">Data Analytics ↓</a>
 </div>
