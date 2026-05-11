@@ -3,7 +3,7 @@ title: Home
 ---
 
 <section class="hero">
-  <h1>Hi, I'm Hitha.</h1>
+  <h1>Hi, I'm Hitha Shri Nagaruru.</h1>
   <p class="hero-sub">I have always been the kind of person who wants to understand the whole system, not just the piece I am working on.</p>
   <p>I spent a year at Bosch Limited as an AI Engineer, building LLM-powered tools and data pipelines for manufacturing. Something I discovered there is how much I enjoy working with real-time data and live systems. There is a different kind of energy when the thing you build has visible impact on a production floor. That is what keeps me motivated.</p>
   <p>That experience also shaped how I think about AI: the most interesting problems are not just in the model, they are in how it fits into the workflow, the data, and the environment around it.</p>
