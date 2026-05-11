@@ -9,7 +9,7 @@ permalink: /projects/secure-ocr-tool/
 
 ## Executive Overview
 
-Built and deployed the first Python-based web application on the Bosch plant network -- an OCR tool for secure digitization of sensitive HR and legacy documents, hosted entirely within corporate firewall restrictions.
+Built and deployed the first Python-based web application on the Bosch plant network, an OCR tool for secure digitization of sensitive HR and legacy documents, hosted entirely within corporate firewall restrictions.
 
 ## Business Context
 

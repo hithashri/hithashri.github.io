@@ -9,7 +9,7 @@ permalink: /projects/recommendation-engine-chatbot/
 
 ## Executive Overview
 
-Built a GPT-4o powered RAG chatbot that pulls system-generated error codes directly from the Manufacturing Execution System and delivers evidence-backed breakdown resolution guidance to technicians in real time -- with no manual input required.
+Built a GPT-4o powered RAG chatbot that pulls system-generated error codes directly from the Manufacturing Execution System and delivers evidence-backed breakdown resolution guidance to technicians in real time, with no manual input required.
 
 ## Business Context
 
