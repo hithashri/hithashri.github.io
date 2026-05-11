@@ -7,7 +7,7 @@ permalink: /contact/
 
 <p class="page-intro">Have a question, an opportunity, or just want to say hi? Send me a message and I will get back to you.</p>
 
-<form class="contact-form" action="https://formspree.io/hnagarur@uci.edu" method="POST">
+<form class="contact-form" action="https://formspree.io/f/mrejrpzv" method="POST">
   <label for="name">Name</label>
   <input type="text" id="name" name="name" placeholder="Your name" required>
 
