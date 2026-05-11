@@ -4,10 +4,10 @@ title: Home
 
 <section class="hero">
   <h1>Hi, I'm Hitha.</h1>
-  <p class="hero-sub">I got into AI because I wanted to understand how things work, and I stayed because I love making those things useful for people who are not engineers.</p>
-  <p>I spent a year at Bosch as an AI Engineer, building tools for manufacturing teams. The projects I enjoyed most were not always on my job description. I would notice something that could be better, get curious, and build a solution. One of those turned into the first Python web app ever deployed on the plant network.</p>
-  <p>Now I am doing my Master's in Computer Science at <strong>UC Irvine</strong>, where I am exploring what it takes to make LLMs safe and trustworthy, and how federated learning can protect data without sacrificing model quality.</p>
-  <p>I am looking for <strong>Data Science</strong>, <strong>AI/ML Engineering</strong>, and <strong>Data Analytics</strong> roles for 2026, ideally somewhere I can keep solving problems that matter to real people.</p>
+  <p class="hero-sub">I have always been the kind of person who wants to understand the whole system, not just the piece I am working on.</p>
+  <p>I spent a year at Bosch Limited as an AI Engineer, building LLM-powered tools and data pipelines for manufacturing. Something I discovered there is how much I enjoy working with real-time data and live systems. There is a different kind of energy when the thing you build has visible impact on a production floor. That is what keeps me motivated.</p>
+  <p>That experience also shaped how I think about AI: the most interesting problems are not just in the model, they are in how it fits into the workflow, the data, and the environment around it.</p>
+  <p>Working with RAG pipelines and LLM-powered systems at Bosch made me want to understand them at a deeper level, how they reason, where they fail, and what it takes to make them reliable. That curiosity is what brought me to <strong>UC Irvine</strong> for my Master's in Computer Science, where I am now exploring LLM safety, validation frameworks, and retrieval-grounded generation.</p>
   <div class="hero-actions">
     <a href="/projects.html" class="btn btn-primary">See my work →</a>
     <a href="/contact/" class="btn btn-outline">Get in touch</a>
