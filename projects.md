@@ -1,76 +1,101 @@
+---
+title: Projects
+---
+
 # Projects
 
-Selected work across AI/ML, data engineering, and applied analytics, focused on measurable business impact.
+Work spanning LLM systems, data science, computer vision, and distributed computing -- organized by what I do, not where I did it.
 
 <div class="cta-row">
-  <a class="btn btn-primary" href="index.md">Back to Home</a>
-  <a class="btn btn-primary" href="assets/docs/resume.pdf" target="_blank" rel="noopener">Download Resume</a>
-  <a class="btn btn-primary" href="/system-design/">View System Design Gallery</a>
+  <a class="btn btn-primary" href="/">Back to Home</a>
+  <a class="btn btn-primary" href="/education/">Education & Skills</a>
+  <a class="btn btn-primary" href="/system-design/">System Design Gallery</a>
 </div>
 
-<div class="metrics-row">
-  <span class="metric-chip">2.6% productivity gain</span>
-  <span class="metric-chip">9s cycle-time reduction</span>
-  <span class="metric-chip">INR 40M capex avoided</span>
-  <span class="metric-chip">150+ BI licenses avoided</span>
-</div>
+---
 
-## Bosch Impact Projects
+## LLM & Generative AI
 
 <div class="card-grid">
   <div class="card">
-    <h3>1) Real-Time Manufacturing Breakdown Recommendation System</h3>
-    <p>GPT-powered assistant for rapid, evidence-backed breakdown resolution in manufacturing workflows.</p>
-    <a href="/projects/recommendation-engine-chatbot/">Open detailed case study</a>
+    <h3>Manufacturing Breakdown Recommendation System</h3>
+    <p>GPT-4o powered RAG chatbot for real-time breakdown resolution on the shop floor. 96% accuracy on known cases, 100% safe fallback on unseen errors.</p>
+    <div class="badge-row"><span class="badge">Bosch</span></div>
+    <a href="/projects/recommendation-engine-chatbot/">View case study</a>
   </div>
   <div class="card">
-    <h3>2) Cycle Time Reduction via Predictive Modeling</h3>
-    <p>Data-driven removal of redundant test logic with quality-safe performance gains.</p>
-    <a href="/projects/cycle-time-reduction/">Open detailed case study</a>
+    <h3>Daily Leadership Review Chatbot</h3>
+    <p>Conversational KPI assistant connected to live Oracle MES data via REST API. Eliminated the need for 150+ Power BI licenses.</p>
+    <div class="badge-row"><span class="badge">Bosch</span></div>
+    <a href="/projects/leadership-analytics/">View case study</a>
   </div>
   <div class="card">
-    <h3>3) Daily Leadership Review Chatbot</h3>
-    <p>Conversational KPI insights powered by live enterprise data and domain-aware logic.</p>
-    <a href="/projects/leadership-analytics/">Open detailed case study</a>
-  </div>
-  <div class="card">
-    <h3>4) FMR OCR-to-Analytics Data Pipeline</h3>
-    <p>Automated OCR and transformation pipeline for near real-time quality visibility.</p>
-    <a href="/projects/fmr-data-pipeline/">Open detailed case study</a>
-  </div>
-  <div class="card">
-    <h3>5) Secure On-Prem OCR Tool</h3>
-    <p>Plant-network-only OCR application for sensitive legacy document digitization.</p>
-    <a href="/projects/secure-ocr-tool/">Open detailed case study</a>
+    <h3>LLM Validation Framework</h3>
+    <p>Fail-fast safety and factuality pipeline with 3-layer toxicity detection, BM25 evidence retrieval, and LLM-as-a-judge grounding checks.</p>
+    <div class="badge-row"><span class="badge">UCI</span></div>
+    <a href="/projects/llm-validation-framework/">View case study</a>
   </div>
 </div>
 
-## Current Academic and Research Projects
+---
+
+## Data Science & Analytics
 
 <div class="card-grid">
   <div class="card">
-    <h3>6) Validation of LLMs Framework</h3>
-    <p>Fail-fast safety and grounding validation with calibrated scoring and structured verdicts.</p>
-    <a href="/projects/llm-validation-framework/">Open detailed case study</a>
+    <h3>Cycle Time Reduction via Predictive Modeling</h3>
+    <p>EDA and regression modeling on calibration bench data. Reduced cycle time by 9s, improved productivity by 2.6%, avoided ~$480K in capital expenditure.</p>
+    <div class="badge-row"><span class="badge">Bosch</span></div>
+    <a href="/projects/cycle-time-reduction/">View case study</a>
   </div>
   <div class="card">
-    <h3>7) Federated Learning Engine with Privacy Protection</h3>
-    <p>Decentralized learning simulation with privacy attacks and differential privacy defenses.</p>
-    <a href="/projects/federated-learning-privacy/">Open detailed case study</a>
+    <h3>FMR OCR-to-Analytics Data Pipeline</h3>
+    <p>End-to-end pipeline converting machine-generated PDFs into structured datasets with Power BI integration for real-time OK/NOK defect tracking.</p>
+    <div class="badge-row"><span class="badge">Bosch</span></div>
+    <a href="/projects/fmr-data-pipeline/">View case study</a>
+  </div>
+  <div class="card">
+    <h3>Tokyo Olympics 2021 Analytics</h3>
+    <p>Exploratory analysis on medal trends, gender representation, host nation advantage, and COVID-19 impact on participation.</p>
+    <div class="badge-row"><span class="badge">Tequed Labs</span></div>
+    <a href="/projects/tokyo-olympics-analytics/">View case study</a>
   </div>
 </div>
 
-## Internship Projects
+---
+
+## Privacy & Distributed Systems
 
 <div class="card-grid">
   <div class="card">
-    <h3>8) Real-Time Helmet Detection System</h3>
-    <p>Computer vision pipeline for helmet non-compliance detection and violation logging.</p>
-    <a href="/projects/helmet-detection-system/">Open detailed case study</a>
+    <h3>Federated Learning Engine with Privacy Risk Detection</h3>
+    <p>Decentralized training simulation with membership inference attacks and differential privacy defenses. Measuring privacy-utility tradeoffs across noise scales.</p>
+    <div class="badge-row"><span class="badge">UCI</span></div>
+    <a href="/projects/federated-learning-privacy/">View case study</a>
   </div>
   <div class="card">
-    <h3>9) Tokyo Olympics 2021 Analytics Study</h3>
-    <p>Exploratory analytics on medal trends, representation, and event-level patterns.</p>
-    <a href="/projects/tokyo-olympics-analytics/">Open detailed case study</a>
+    <h3>Secure On-Prem OCR Tool</h3>
+    <p>First Python web app deployed on the Bosch plant network. Flask + Waitress + NSSM for secure HR document digitization within corporate firewall.</p>
+    <div class="badge-row"><span class="badge">Bosch</span></div>
+    <a href="/projects/secure-ocr-tool/">View case study</a>
+  </div>
+  <div class="card">
+    <h3>Parallel & Distributed Computing Studies</h3>
+    <p>Hardware-aware matrix multiplication (4.55x speedup), shared-memory performance simulation, and heterogeneous core analysis on Apple Silicon.</p>
+    <div class="badge-row"><span class="badge">UCI Coursework</span></div>
+    <a href="/projects/parallel-computing/">View case study</a>
+  </div>
+</div>
+
+---
+
+## Computer Vision
+
+<div class="card-grid">
+  <div class="card">
+    <h3>Real-Time Helmet Detection System</h3>
+    <p>YOLOv3 + OpenCV pipeline for helmet non-compliance detection from CCTV footage with automated number plate logging and violation reporting.</p>
+    <div class="badge-row"><span class="badge">VOIS / Vodafone</span></div>
+    <a href="/projects/helmet-detection-system/">View case study</a>
   </div>
 </div>

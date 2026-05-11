@@ -2,57 +2,62 @@
 title: Hitha Shri Nagaruru
 ---
 
-## About
+I'm a Master of Computer Science student at UC Irvine building applied AI systems, data pipelines, and analytics tools that solve real operational problems.
 
-Hi there! With the curiosity in the booming AI domain, I started with my Bachelors of engineering in computer science and engineering with a gpa of 3.81. During this I worked on multiple projects and internships inclusing
+Before grad school, I spent a year as an AI Engineer at Bosch, where I shipped LLM-powered manufacturing assistants, automated data pipelines, and predictive models that saved the plant ~$480K in capital expenditure. I like working at the intersection of AI and messy real-world systems -- where the data isn't clean, the constraints are real, and the impact is measurable.
 
----
+I'm targeting **Data Science**, **AI/ML Engineering**, and **Data Analytics** roles for 2026.
 
-## Professional Experience Spotlight
-
-### Bosch Limited - AI/ML Engineer (Graduate Apprentice)
-
-<ul class="timeline">
-  <li>
-    <strong>Cycle Time Optimization</strong><br>
-    Improved productivity by 2.6% and reduced cycle time by 9 seconds through calibration bench analytics.
-  </li>
-  <li>
-    <strong>Breakdown Recommendation Assistant</strong><br>
-    Built a GPT-4o-powered chatbot with high known-case accuracy and safe fallback handling.
-  </li>
-  <li>
-    <strong>Leadership KPI Copilot</strong><br>
-    Developed a conversational KPI system integrated with live MES data, reducing dashboard licensing dependency.
-  </li>
-  <li>
-    <strong>Secure OCR Deployment</strong><br>
-    Delivered plant-network-only OCR solutions for confidential document digitization.
-  </li>
-</ul>
-
-[Explore Bosch Project Case Studies](/projects.html#bosch-impact-projects)
+<div class="cta-row">
+  <a class="btn btn-primary" href="/projects.html">Projects</a>
+  <a class="btn btn-primary" href="/education/">Education & Skills</a>
+  <a class="btn btn-primary" href="/system-design/">System Design Gallery</a>
+</div>
 
 ---
 
-## Featured Project Areas
+## What I Bring
 
 <div class="card-grid">
   <div class="card">
-    <h3>Manufacturing AI and Industry 4.0</h3>
-    <p>Production copilots, cycle-time optimization, OCR pipelines, and secure deployment in enterprise environments.</p>
-    <a href="/projects.html#bosch-impact-projects">Explore Bosch project cluster</a>
+    <h3>LLM & Generative AI</h3>
+    <p>RAG pipelines, GPT-powered enterprise assistants, LLM safety and factuality validation, and prompt engineering for production systems.</p>
   </div>
   <div class="card">
-    <h3>Applied LLM and Privacy Research</h3>
-    <p>Validation frameworks, safety/factuality pipelines, and federated learning with privacy risk analysis.</p>
-    <a href="/projects.html#current-academic-and-research-projects">Explore research projects</a>
+    <h3>Data Science & Analytics</h3>
+    <p>Predictive modeling, exploratory analysis, ETL automation, and BI integration for manufacturing and operational decision-making.</p>
   </div>
   <div class="card">
-    <h3>Computer Vision and Analytics</h3>
-    <p>Real-time detection systems and insight generation through structured exploratory analytics.</p>
-    <a href="/projects.html#internship-projects">Explore internship projects</a>
+    <h3>Privacy & Distributed Systems</h3>
+    <p>Federated learning, differential privacy, membership inference attacks, cache-aware parallel computing, and secure on-premise deployment.</p>
   </div>
+  <div class="card">
+    <h3>Computer Vision</h3>
+    <p>Real-time object detection, compliance monitoring, and automated violation reporting from video streams.</p>
+  </div>
+</div>
+
+---
+
+## Impact
+
+<div class="metrics-row">
+  <span class="metric-chip">~$480K capex avoided</span>
+  <span class="metric-chip">2.6% productivity gain</span>
+  <span class="metric-chip">9s cycle-time reduction</span>
+  <span class="metric-chip">150+ BI licenses eliminated</span>
+  <span class="metric-chip">96% known-case accuracy</span>
+  <span class="metric-chip">100% safe fallback rate</span>
+</div>
+
+---
+
+## Resumes
+
+<div class="cta-row">
+  <a class="btn" href="assets/docs/resume-aiml.pdf" target="_blank">AI/ML Engineering</a>
+  <a class="btn" href="assets/docs/resume-ds.pdf" target="_blank">Data Science</a>
+  <a class="btn" href="assets/docs/resume-da.pdf" target="_blank">Data Analytics</a>
 </div>
 
 ---
@@ -61,6 +66,5 @@ Hi there! With the curiosity in the booming AI domain, I started with my Bachelo
 
 - Email: [hnagarur@uci.edu](mailto:hnagarur@uci.edu)
 - Phone: [(617) 892-1409](tel:+16178921409)
-- LinkedIn: [linkedin.com/in/hithashrinagaruru](http://linkedin.com/in/hithashrinagaruru)
+- LinkedIn: [linkedin.com/in/hithashrinagaruru](https://linkedin.com/in/hithashrinagaruru)
 - GitHub: [github.com/hithashri](https://github.com/hithashri)
-- Resume: [Download Resume (PDF)](assets/docs/resume.pdf)

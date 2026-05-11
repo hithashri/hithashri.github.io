@@ -7,7 +7,7 @@ permalink: /projects/recommendation-engine-chatbot/
 
 ## Executive Overview
 
-Built an internal GPT-powered manufacturing assistant to provide reliable, real-time breakdown recommendations from historical resolution data, reducing manual troubleshooting effort on the shop floor.
+Built a GPT-4o powered RAG chatbot that pulls system-generated error codes directly from the Manufacturing Execution System and delivers evidence-backed breakdown resolution guidance to technicians in real time -- with no manual input required.
 
 ## Business Context
 
@@ -39,8 +39,10 @@ Python, Azure OpenAI (GPT-4o), FastAPI, NLP pipelines, document parsing, similar
 
 ## Outcomes
 
-- Faster root-cause guidance for common failures.
-- Improved consistency of operator response across teams.
+- **96% accuracy** on known failure cases with evidence-backed recommendations.
+- **100% safe fallback rate** for unseen error types, preventing incorrect guidance.
+- Automated error code ingestion from MES with zero manual input.
+- Reduced production downtime on the oxygen sensor line.
 - Established a continuously improving, retrieval-backed support workflow.
 
 ## Confidentiality Note

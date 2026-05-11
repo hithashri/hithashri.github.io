@@ -7,7 +7,7 @@ permalink: /projects/secure-ocr-tool/
 
 ## Executive Overview
 
-Built and deployed an internal OCR web application for secure digitization of sensitive legacy documents entirely within plant infrastructure.
+Built and deployed the first Python-based web application on the Bosch plant network -- an OCR tool for secure digitization of sensitive HR and legacy documents, hosted entirely within corporate firewall restrictions.
 
 ## Business Context
 
@@ -39,6 +39,6 @@ Python, Flask, OCR stack, Waitress, NSSM, internal server deployment
 
 ## Outcomes
 
-- Securely digitized sensitive historical documents.
-- Improved enterprise-wide document discoverability.
-- Achieved the first Python-based deployment within the plant network environment.
+- **First Python-based web application** ever deployed on the Bosch plant network.
+- Independently designed the hosting solution within corporate firewall restrictions using Waitress and NSSM.
+- Enabled secure digitization of sensitive HR documents with zero external data exposure.

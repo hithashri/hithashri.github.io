@@ -39,6 +39,6 @@ Azure OpenAI (GPT-4o), Oracle SQL, FastAPI, TypeScript, REST APIs
 
 ## Outcomes
 
-- Enabled faster leadership decisions with direct, conversational access to KPIs.
-- Reduced reliance on static dashboard workflows and related licensing overhead.
-- Increased engagement with real-time operational performance data.
+- **Eliminated the need for 150+ Power BI licenses** by replacing static dashboards with conversational access.
+- Delivered real-time KPI insights to plant leadership through natural language queries.
+- Reduced decision latency by connecting directly to live Oracle MES data via REST API.

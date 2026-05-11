@@ -63,6 +63,18 @@ Export your draw.io diagrams as PNG/SVG and place them under `assets/diagrams/`.
     <img class="diagram-preview" src="assets/diagrams/tokyo-olympics-analytics-workflow.png" alt="Tokyo Olympics Analytics placeholder diagram">
     <p class="meta">Replace with: <code>assets/diagrams/tokyo-olympics-analytics-workflow.png</code></p>
   </div>
+  <div class="card">
+    <h3>Parallel Matrix Multiplication</h3>
+    <p class="meta">Loop Ordering -> Cache Analysis -> Thread Scaling -> Ring Topology Mapping</p>
+    <img class="diagram-preview" src="assets/diagrams/parallel-matrix-multiplication.png" alt="Parallel Matrix Multiplication placeholder diagram">
+    <p class="meta">Replace with: <code>assets/diagrams/parallel-matrix-multiplication.png</code></p>
+  </div>
+  <div class="card">
+    <h3>Shared-Memory System Simulation</h3>
+    <p class="meta">K Processors -> Interconnect -> M Memory Modules -> Contention Analysis</p>
+    <img class="diagram-preview" src="assets/diagrams/shared-memory-simulation.png" alt="Shared-Memory Simulation placeholder diagram">
+    <p class="meta">Replace with: <code>assets/diagrams/shared-memory-simulation.png</code></p>
+  </div>
 </div>
 
 ---
