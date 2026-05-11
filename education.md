@@ -3,25 +3,27 @@ title: Education & Skills
 permalink: /education/
 ---
 
-<a class="home-link" href="/">Home</a>
+# Education & Skills
 
-# Education
+---
+
+## Education
 
 <div class="card-grid">
   <div class="card">
     <h3>University of California, Irvine</h3>
-    <p><strong>Master of Computer Science</strong><br>Sep 2025 - Dec 2026 | GPA: 3.83 / 4.00</p>
+    <p><strong>Master of Computer Science</strong><br>Sep 2025 – Dec 2026 · GPA: 3.83 / 4.00</p>
     <p>Machine Learning, Artificial Intelligence, Algorithms, Parallel and Distributed Computing, Advanced Problem Solving, Distributed Data Management, Transaction Processing</p>
   </div>
   <div class="card">
     <h3>JSS Academy of Technical Education, Bengaluru</h3>
-    <p><strong>Bachelor of Engineering, Computer Science</strong><br>Dec 2020 - Jun 2024 | GPA: 3.81 / 4.00</p>
+    <p><strong>Bachelor of Engineering, Computer Science</strong><br>Dec 2020 – Jun 2024 · GPA: 3.81 / 4.00</p>
   </div>
 </div>
 
 ---
 
-# Technical Skills
+## Technical Skills
 
 <div class="card-grid">
   <div class="card">
@@ -48,10 +50,4 @@ permalink: /education/
     <h3>Workflow & Deployment</h3>
     <p>ERP (Oracle, SAP exposure), On-premise deployment (Waitress, NSSM), R (currently learning)</p>
   </div>
-</div>
-
----
-
-<div class="cta-row">
-  <a class="btn btn-primary" href="/projects.html">View Projects</a>
 </div>

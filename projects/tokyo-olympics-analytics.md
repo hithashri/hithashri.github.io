@@ -3,7 +3,7 @@ title: Tokyo Olympics 2021 Analytics Study
 permalink: /projects/tokyo-olympics-analytics/
 ---
 
-<a class="home-link" href="/">Home</a>
+<a class="back-link" href="/projects.html">← Projects</a>
 
 # Tokyo Olympics 2021 Analytics Study
 

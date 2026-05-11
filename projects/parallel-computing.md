@@ -3,7 +3,7 @@ title: Parallel & Distributed Computing Studies
 permalink: /projects/parallel-computing/
 ---
 
-<a class="home-link" href="/">Home</a>
+<a class="back-link" href="/projects.html">← Projects</a>
 
 # Parallel & Distributed Computing Studies
 
@@ -94,9 +94,3 @@ Maximum speedup of **1.233x at 2 threads**. Performance degraded beyond that due
 
 C, Python, pthreads, mutex synchronization, Apple M-series / M4 Pro silicon, performance benchmarking
 
----
-
-<div class="cta-row">
-  <a class="btn btn-primary" href="/projects.html">Back to Projects</a>
-  <a class="btn btn-primary" href="/">Back to Home</a>
-</div>

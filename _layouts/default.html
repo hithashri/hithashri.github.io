@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ site.description }}">
+  <title>{% if page.title == 'Home' %}{{ site.title }}{% else %}{{ page.title }} · {{ site.title }}{% endif %}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body>
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="/" class="nav-logo">hitha.</a>
+      <div class="nav-links">
+        <a href="/projects.html"{% if page.url == '/projects.html' or page.url contains '/projects/' %} class="active"{% endif %}>Projects</a>
+        <a href="/education/"{% if page.url == '/education/' %} class="active"{% endif %}>Education</a>
+        <a href="/contact/"{% if page.url == '/contact/' %} class="active"{% endif %}>Contact</a>
+        <a href="https://linkedin.com/in/hithashrinagaruru" target="_blank" rel="noopener">LinkedIn ↗</a>
+        <a href="https://github.com/hithashri" target="_blank" rel="noopener">GitHub ↗</a>
+      </div>
+      <button class="nav-toggle" aria-label="Toggle navigation">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <main class="main">
+    {{ content }}
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <p class="footer-name">Hitha Shri Nagaruru</p>
+      <p class="footer-links">
+        <a href="mailto:hnagarur@uci.edu">hnagarur@uci.edu</a>
+        <span class="footer-dot">·</span>
+        <a href="tel:+16178921409">(617) 892-1409</a>
+        <span class="footer-dot">·</span>
+        <a href="https://linkedin.com/in/hithashrinagaruru" target="_blank" rel="noopener">LinkedIn</a>
+        <span class="footer-dot">·</span>
+        <a href="https://github.com/hithashri" target="_blank" rel="noopener">GitHub</a>
+      </p>
+    </div>
+  </footer>
+
+  <script>
+    document.querySelector('.nav-toggle').addEventListener('click', function () {
+      document.querySelector('.nav-links').classList.toggle('open');
+    });
+  </script>
+</body>
+</html>

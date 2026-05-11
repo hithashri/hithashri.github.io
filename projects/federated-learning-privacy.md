@@ -3,7 +3,7 @@ title: Federated Learning Engine with Privacy Risk Detection and Protection
 permalink: /projects/federated-learning-privacy/
 ---
 
-<a class="home-link" href="/">Home</a>
+<a class="back-link" href="/projects.html">← Projects</a>
 
 # Federated Learning Engine with Privacy Risk Detection and Protection
 

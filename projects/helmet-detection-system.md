@@ -3,7 +3,7 @@ title: Real-Time Helmet Detection and Violation Logging System
 permalink: /projects/helmet-detection-system/
 ---
 
-<a class="home-link" href="/">Home</a>
+<a class="back-link" href="/projects.html">← Projects</a>
 
 # Real-Time Helmet Detection and Violation Logging System
 

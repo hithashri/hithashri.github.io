@@ -3,7 +3,7 @@ title: FMR OCR-to-Analytics Data Pipeline
 permalink: /projects/fmr-data-pipeline/
 ---
 
-<a class="home-link" href="/">Home</a>
+<a class="back-link" href="/projects.html">← Projects</a>
 
 # FMR OCR-to-Analytics Data Pipeline
 

@@ -3,7 +3,7 @@ title: Validation of LLMs Framework
 permalink: /projects/llm-validation-framework/
 ---
 
-<a class="home-link" href="/">Home</a>
+<a class="back-link" href="/projects.html">← Projects</a>
 
 # Validation of LLMs Framework
 

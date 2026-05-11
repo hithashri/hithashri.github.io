@@ -3,7 +3,7 @@ title: System Design Gallery
 permalink: /system-design/
 ---
 
-<a class="home-link" href="/">Home</a>
+<a class="back-link" href="/projects.html">← Projects</a>
 
 # System Design Gallery
 

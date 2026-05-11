@@ -3,7 +3,7 @@ title: Daily Leadership Review Chatbot
 permalink: /projects/leadership-analytics/
 ---
 
-<a class="home-link" href="/">Home</a>
+<a class="back-link" href="/projects.html">← Projects</a>
 
 # Daily Leadership Review Chatbot
 

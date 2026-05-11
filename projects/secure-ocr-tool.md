@@ -3,7 +3,7 @@ title: Secure On-Prem OCR Tool
 permalink: /projects/secure-ocr-tool/
 ---
 
-<a class="home-link" href="/">Home</a>
+<a class="back-link" href="/projects.html">← Projects</a>
 
 # Secure On-Prem OCR Tool
 
