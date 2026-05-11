@@ -12,12 +12,10 @@ permalink: /contact/
   <input type="text" id="name" name="name" placeholder="Your name" required>
 
   <label for="email">Email</label>
-  <input type="email" id="email" name="_replyto" placeholder="you@example.com" required>
+  <input type="email" id="email" name="email" placeholder="you@example.com" required>
 
   <label for="message">Message</label>
-  <textarea id="message" name="message" placeholder="What's on your mind?" rows="6" required></textarea>
-
-  <input type="hidden" name="_subject" value="Portfolio Contact Form Submission">
+  <textarea id="message" name="message" placeholder="What is on your mind?" rows="6" required></textarea>
 
   <button type="submit" class="btn btn-primary btn-submit">Send message →</button>
 </form>
