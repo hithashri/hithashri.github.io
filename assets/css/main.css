@@ -61,14 +61,15 @@ body {
 }
 
 .nav-logo {
-  font-size: 1.1rem;
-  font-weight: 800;
+  display: flex;
+  align-items: center;
   color: var(--text);
   text-decoration: none;
-  letter-spacing: -0.5px;
 }
 
 .nav-logo:hover { color: var(--primary); text-decoration: none; }
+
+.nav-logo svg { transition: color 0.15s ease; }
 
 .nav-links {
   display: flex;
