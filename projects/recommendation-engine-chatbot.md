@@ -33,7 +33,7 @@ How can technicians receive fast, trustworthy resolution guidance for live break
 - **Reasoning layer:** GPT response composition using retrieved evidence and safety constraints.
 - **Feedback layer:** Capture of accepted/rejected recommendations for iterative improvement.
 
-Add your draw.io architecture diagram here later: `assets/diagrams/recommendation-system-architecture.png`.
+<!-- Add your draw.io architecture diagram here later: assets/diagrams/recommendation-system-architecture.png -->
 
 ## Technology Stack
 

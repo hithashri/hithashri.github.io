@@ -33,7 +33,7 @@ How do we provide faster, easier, and more cost-effective access to operational 
 - **API layer:** FastAPI endpoints for controlled query orchestration.
 - **Interaction layer:** LLM-based conversational interface for leadership users.
 
-Add your draw.io architecture diagram here later: `assets/diagrams/leadership-review-chatbot-architecture.png`.
+<!-- Add your draw.io architecture diagram here later: assets/diagrams/leadership-review-chatbot-architecture.png -->
 
 ## Technology Stack
 

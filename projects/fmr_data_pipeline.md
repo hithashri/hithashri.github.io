@@ -33,7 +33,7 @@ How can machine-generated PDF data be transformed into accurate, structured, and
 - **Transformation layer:** Data cleaning, normalization, and compliance tagging.
 - **Consumption layer:** Excel outputs and BI dashboards for operations teams.
 
-Add your draw.io dataflow diagram here later: `assets/diagrams/fmr-data-pipeline-architecture.png`.
+<!-- Add your draw.io dataflow diagram here later: assets/diagrams/fmr-data-pipeline-architecture.png -->
 
 ## Technology Stack
 

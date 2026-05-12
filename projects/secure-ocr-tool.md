@@ -33,7 +33,7 @@ How can we digitize legacy scanned documents at scale without exposing data beyo
 - **Deployment layer:** On-prem Windows service setup (Waitress/NSSM).
 - **Security layer:** Network-bound operation with no third-party data exposure.
 
-Add your draw.io deployment architecture here later: `assets/diagrams/secure-ocr-tool-architecture.png`.
+<!-- Add your draw.io deployment architecture here later: assets/diagrams/secure-ocr-tool-architecture.png -->
 
 ## Technology Stack
 

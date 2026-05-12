@@ -32,7 +32,7 @@ What key patterns can be extracted from Olympic data related to medal distributi
 - **Analysis layer:** Exploratory statistics, comparative slicing, and trend discovery.
 - **Visualization layer:** Insight-focused charts for narrative reporting.
 
-Add your draw.io analytics workflow diagram here later: `assets/diagrams/tokyo-olympics-analytics-workflow.png`.
+<!-- Add your draw.io analytics workflow diagram here later: assets/diagrams/tokyo-olympics-analytics-workflow.png -->
 
 ## Technology Stack
 

@@ -33,7 +33,7 @@ How can we detect non-helmet riders in real time and generate structured violati
 - **Extraction layer:** Number plate capture and metadata structuring.
 - **Reporting layer:** Automated tabular violation reports.
 
-Add your draw.io system diagram here later: `assets/diagrams/helmet-detection-architecture.png`.
+<!-- Add your draw.io system diagram here later: assets/diagrams/helmet-detection-architecture.png -->
 
 ## Technology Stack
 

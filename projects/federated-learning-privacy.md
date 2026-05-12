@@ -34,7 +34,7 @@ How can we quantify and reduce privacy leakage in federated learning while prese
 - **Defense layer:** Differential privacy mechanisms with tunable parameters.
 - **Evaluation layer:** Privacy-utility benchmarking across attack success and model performance.
 
-Add your draw.io federated architecture diagram here later: `assets/diagrams/federated-learning-privacy-architecture.png`.
+<!-- Add your draw.io federated architecture diagram here later: assets/diagrams/federated-learning-privacy-architecture.png -->
 
 ## Technology Stack
 

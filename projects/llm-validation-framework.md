@@ -33,7 +33,7 @@ How can we design an automated, extensible framework to evaluate LLM responses f
 - **Grounding layer:** Retrieval, BM25 ranking, and judge-model evaluation.
 - **Output layer:** Structured validation report with verdicts and confidence.
 
-Add your draw.io validation architecture diagram here later: `assets/diagrams/llm-validation-framework-architecture.png`.
+<!-- Add your draw.io validation architecture diagram here later: assets/diagrams/llm-validation-framework-architecture.png -->
 
 ## Technology Stack
 

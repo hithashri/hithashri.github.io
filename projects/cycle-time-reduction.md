@@ -33,7 +33,7 @@ Can we remove redundant test steps using predictive modeling while maintaining a
 - **Validation layer:** Quality threshold checks and error-bound governance.
 - **Operations layer:** Decision criteria for retaining vs. skipping specific tests.
 
-Add your draw.io pipeline or model flow here later: `assets/diagrams/cycle-time-model-architecture.png`.
+<!-- Add your draw.io pipeline or model flow here later: assets/diagrams/cycle-time-model-architecture.png -->
 
 ## Technology Stack
 
