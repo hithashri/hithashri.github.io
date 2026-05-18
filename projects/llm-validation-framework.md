@@ -49,7 +49,7 @@ How can we design an automated, extensible framework to evaluate LLM responses a
 - **Output layer:** Structured validation report with per-agent verdicts, confidence scores, and aggregate status.
 - **Demo stack:** FastAPI backend with SSE streaming + web UI for interactive testing.
 
-<!-- Add your draw.io validation architecture diagram here later: assets/diagrams/llm-validation-framework-architecture.png -->
+<img class="diagram-preview" src="/assets/diagrams/validate_llm_architecture.png" alt="LLM Validation Framework Architecture">
 
 ## Technology Stack
 

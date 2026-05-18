@@ -12,6 +12,16 @@ title: Projects
 
 <div class="card-grid">
   <div class="card">
+    <h3>LLM Validation Framework</h3>
+    <p>Open-source Python package with 5 composable guardrail agents (toxicity, privacy, accuracy, relevancy, bias). 96% toxicity detection with local inference; 85% accuracy via LLM-as-a-judge. Multi-provider support via LiteLLM.</p>
+    <div class="badge-row"><span class="badge">UCI</span><span class="badge">Open Source</span></div>
+    <div class="card-links">
+      <a href="/projects/llm-validation-framework/">Case study →</a>
+      <a href="https://tyeoh9.github.io/llm-validation-framework/" target="_blank" rel="noopener">Docs ↗</a>
+      <a href="https://pypi.org/project/validate-llm/" target="_blank" rel="noopener">PyPI ↗</a>
+    </div>
+  </div>
+  <div class="card">
     <h3>Manufacturing Breakdown Recommendation System</h3>
     <p>GPT-4o powered RAG chatbot for real-time breakdown resolution on the shop floor. 96% accuracy on known cases, 100% safe fallback on unseen errors.</p>
     <div class="badge-row"><span class="badge">Bosch</span></div>
@@ -22,16 +32,6 @@ title: Projects
     <p>Conversational KPI assistant connected to live Oracle MES data via REST API. Eliminated the need for 150+ Power BI licenses.</p>
     <div class="badge-row"><span class="badge">Bosch</span></div>
     <a href="/projects/leadership-analytics/">View case study →</a>
-  </div>
-  <div class="card">
-    <h3>LLM Validation Framework</h3>
-    <p>Open-source Python package with 5 composable guardrail agents (toxicity, privacy, accuracy, relevancy, bias). 96% toxicity detection with local inference; 85% accuracy via LLM-as-a-judge. Multi-provider support via LiteLLM.</p>
-    <div class="badge-row"><span class="badge">UCI</span><span class="badge">Open Source</span></div>
-    <div class="card-links">
-      <a href="/projects/llm-validation-framework/">Case study →</a>
-      <a href="https://tyeoh9.github.io/llm-validation-framework/" target="_blank" rel="noopener">Docs ↗</a>
-      <a href="https://pypi.org/project/validate-llm/" target="_blank" rel="noopener">PyPI ↗</a>
-    </div>
   </div>
 </div>
 
