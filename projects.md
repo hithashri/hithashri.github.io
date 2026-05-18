@@ -23,9 +23,18 @@ title: Projects
   </div>
   <div class="card">
     <h3>Manufacturing Breakdown Recommendation System</h3>
-    <p>GPT-4o powered RAG chatbot for real-time breakdown resolution on the shop floor. 96% accuracy on known cases, 100% safe fallback on unseen errors.</p>
-    <div class="badge-row"><span class="badge">Bosch</span></div>
+    <p>GPT-4o powered breakdown resolution assistant deployed on a Bosch production line. 96% accuracy on known cases, 100% safe fallback on unseen errors, zero manual input.</p>
+    <div class="badge-row"><span class="badge">Bosch</span><span class="badge">Production</span></div>
     <a href="/projects/recommendation-engine-chatbot/">View case study →</a>
+  </div>
+  <div class="card">
+    <h3>MES RAG Chatbot: Vector Search Architecture</h3>
+    <p>End-to-end RAG pipeline with ChromaDB vector search, cosine distance fallback gating, and human-in-the-loop knowledge base updater for out-of-distribution queries.</p>
+    <div class="badge-row"><span class="badge">Personal</span><span class="badge">Open Source</span></div>
+    <div class="card-links">
+      <a href="/projects/mes-rag-chatbot/">Case study →</a>
+      <a href="https://github.com/hithashri/mes_rag_chatbot" target="_blank" rel="noopener">GitHub ↗</a>
+    </div>
   </div>
   <div class="card">
     <h3>Daily Leadership Review Chatbot</h3>

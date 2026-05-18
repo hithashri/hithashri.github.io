@@ -14,7 +14,7 @@ permalink: /projects/llm-validation-framework/
 
 ## Executive Overview
 
-Led a 4-person team to architect and publish `validate-llm`, an open-source Python package on PyPI that delivers five composable guardrail agents — toxicity, privacy, accuracy, relevancy, and bias — wrapping any LLM pipeline with structured PASS/FAIL verdicts and calibrated 0–1 scoring. Supports multiple providers via LiteLLM.
+Led a 4-person team to architect and publish `validate-llm`, an open-source Python package on PyPI that delivers five composable guardrail agents (toxicity, privacy, accuracy, relevancy, and bias) wrapping any LLM pipeline with structured PASS/FAIL verdicts and calibrated 0-1 scoring. Supports multiple providers via LiteLLM.
 
 <div class="metrics-row">
   <span class="metric-chip">96% toxicity detection</span>
@@ -25,18 +25,18 @@ Led a 4-person team to architect and publish `validate-llm`, an open-source Pyth
 
 ## Business Context
 
-As LLM systems move into production, organizations need reliable, composable safeguards before responses reach users. Validation pipelines must detect harmful, biased, or ungrounded outputs early and consistently — without forcing teams to build custom detection logic from scratch.
+As LLM systems move into production, organizations need reliable, composable safeguards before responses reach users. Validation pipelines must detect harmful, biased, or ungrounded outputs early and consistently without forcing teams to build custom detection logic from scratch.
 
 ## Problem Statement
 
-How can we design an automated, extensible framework to evaluate LLM responses across safety, privacy, factual grounding, relevancy, and bias — while remaining provider-agnostic and production-ready?
+How can we design an automated, extensible framework to evaluate LLM responses across safety, privacy, factual grounding, relevancy, and bias while remaining provider-agnostic and production-ready?
 
 ## Solution Design
 
 - **Composable guardrail architecture:** Five independent agents (toxicity, privacy, accuracy, relevancy, bias) that plug into any LLM pipeline as input or output guardrails, each returning structured verdicts and calibrated scores.
-- **3-layer toxicity detection:** Combined rule-based profanity filtering, Detoxify ML scoring, and SentenceTransformer (all-MiniLM-L6-v2) semantic similarity classification across policy categories (hate speech, violence, extremism, self-harm) — achieving **96% detection accuracy** with fully local inference and zero external API calls.
+- **3-layer toxicity detection:** Combined rule-based profanity filtering, Detoxify ML scoring, and SentenceTransformer (all-MiniLM-L6-v2) semantic similarity classification across policy categories (hate speech, violence, extremism, self-harm), achieving **96% detection accuracy** with fully local inference and zero external API calls.
 - **Plug-and-play RAG interface:** Developers can integrate their own vector store retriever for domain-specific factual grounding. The default accuracy agent uses LLM-as-a-judge via DeepEval GEval with BM25-ranked web retrieval as the evidence source, reaching **85% accuracy** on benchmarks.
-- **Privacy agent:** Regex-based PII and secrets scanning — detects SSNs, credit cards (Luhn-validated), API keys, and system prompt leakage, all running locally.
+- **Privacy agent:** Regex-based PII and secrets scanning that detects SSNs, credit cards (Luhn-validated), API keys, and system prompt leakage, all running locally.
 - **Multi-provider support:** LiteLLM integration enabling seamless switching between Anthropic, OpenAI, and other LLM providers.
 
 ## System Design and Architecture
@@ -61,7 +61,7 @@ Python, LiteLLM, DeepEval (GEval), Detoxify, SentenceTransformers (all-MiniLM-L6
 - **96%** toxicity detection accuracy with fully local, zero-API-call inference.
 - **85%** factual accuracy on benchmarks using LLM-as-a-judge with BM25 evidence retrieval.
 - Shipped a full-stack demo (FastAPI + SSE streaming + web UI) for interactive pipeline testing.
-- Designed for production extensibility — teams can plug in custom retrievers, swap providers, and configure per-agent thresholds.
+- Designed for production extensibility; teams can plug in custom retrievers, swap providers, and configure per-agent thresholds.
 
 ## Quick Start
 
