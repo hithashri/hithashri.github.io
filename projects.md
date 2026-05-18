@@ -107,6 +107,3 @@ title: Projects
   </div>
 </div>
 
----
-
-Looking for architecture diagrams? Visit the [System Design Gallery](/system-design/).
