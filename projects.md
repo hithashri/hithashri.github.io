@@ -25,9 +25,13 @@ title: Projects
   </div>
   <div class="card">
     <h3>LLM Validation Framework</h3>
-    <p>Fail-fast safety and factuality pipeline with 3-layer toxicity detection, BM25 evidence retrieval, and LLM-as-a-judge grounding checks.</p>
-    <div class="badge-row"><span class="badge">UCI</span></div>
-    <a href="/projects/llm-validation-framework/">View case study →</a>
+    <p>Open-source Python package with 5 composable guardrail agents (toxicity, privacy, accuracy, relevancy, bias). 96% toxicity detection with local inference; 85% accuracy via LLM-as-a-judge. Multi-provider support via LiteLLM.</p>
+    <div class="badge-row"><span class="badge">UCI</span><span class="badge">Open Source</span></div>
+    <div class="card-links">
+      <a href="/projects/llm-validation-framework/">Case study →</a>
+      <a href="https://tyeoh9.github.io/llm-validation-framework/" target="_blank" rel="noopener">Docs ↗</a>
+      <a href="https://pypi.org/project/validate-llm/" target="_blank" rel="noopener">PyPI ↗</a>
+    </div>
   </div>
 </div>
 

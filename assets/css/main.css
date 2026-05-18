@@ -368,6 +368,25 @@ blockquote {
 .card p { font-size: 0.87rem; margin-bottom: 0.6rem; line-height: 1.6; }
 .card > a { font-size: 0.83rem; font-weight: 600; }
 
+.card-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 0.25rem;
+}
+
+.card-links a {
+  font-size: 0.83rem;
+  font-weight: 600;
+}
+
+.project-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-bottom: 2rem;
+}
+
 /* ---- Badges ---- */
 
 .badge-row {
