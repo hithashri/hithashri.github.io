@@ -15,11 +15,11 @@ permalink: /projects/mes-rag-chatbot/
 
 Built a fully functional RAG chatbot for a manufacturing use case, implementing the complete vector search pipeline from document ingestion through semantic retrieval to grounded LLM generation, with a human-in-the-loop knowledge base updater for handling out-of-distribution queries. Built independently to explore and implement the retrieval architecture underlying production RAG systems.
 
-## Motivation
+<!-- ## Motivation
 
 At Bosch, I built the production breakdown recommendation system that served technicians on the factory floor, but that project operated within proprietary infrastructure where the vector search, embedding pipeline, and retrieval logic were abstracted behind enterprise tooling. I did not get to build the RAG internals from scratch: choosing the embedding model, configuring the vector store, tuning retrieval thresholds, or designing fallback behaviour when the system encounters something outside its training distribution.
 
-I wanted to understand those mechanics at the implementation level: how chunking strategy affects retrieval quality, where cosine distance thresholds should sit to balance recall and hallucination risk, and what happens architecturally when a RAG system needs to extend its own knowledge base at runtime. This project was built to answer those questions hands-on.
+I wanted to understand those mechanics at the implementation level: how chunking strategy affects retrieval quality, where cosine distance thresholds should sit to balance recall and hallucination risk, and what happens architecturally when a RAG system needs to extend its own knowledge base at runtime. This project was built to answer those questions hands-on. -->
 
 ## Problem Statement
 
